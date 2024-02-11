@@ -33,14 +33,14 @@ main {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    background-color: #0c3f05;
+    
 }
 
 .boxes {
     margin-top: 50px;
     width: 400px;
     height: 180px;
-    background-color: #0c3f05;
+    
 }
 
 .green {
@@ -60,7 +60,7 @@ main {
 
 .person-2 .head,
 .person-2 .boxes {
-    background-color: rgb(6, 95, 19);
+    background-color: rgb(28, 245, 61);
 }
 
 
