@@ -30,16 +30,16 @@ main {
     place-items: center;
     margin-top: 50px;
     margin-left: 100px;
-    width: 210px;
-    height: 210px;
+    width: 200px;
+    height: 200px;
     border-radius: 50%;
     background-color: #0c3f05;
 }
 
 .boxes {
     margin-top: 50px;
-    width: 430px;
-    height: 210px;
+    width: 400px;
+    height: 180px;
     background-color: #0c3f05;
 }
 
